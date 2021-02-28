@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://ouragan.vercel.app/"
+baseURL = "https://ronew.vercel.app/"
 languageCode = "en"
-title = "Ouragan Store Columbia"
+title = "Romania News 24/7 creams new"
 theme = "Themefisher"
 summaryLength = "20"
 paginate = 10
@@ -84,7 +84,7 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "IMAGE Skincare - IMAGE NOW. Age later.&ndash; Image Skincare Online"
+description = "Stiri Romania 24/7 cream"
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -98,7 +98,7 @@ mobile = "515.543.1212"
 email = "info@ouragan.vercel.app"
 location = "Columbia, MD 34650"
 # copyright
-copyright = "| Copyright &copy; 2021 ouragan.vercel.app All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 ronew.vercel.app All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
