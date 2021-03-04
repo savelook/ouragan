@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ronew.vercel.app/"
+baseURL = "news24ro.vercel.app"
 languageCode = "en"
 title = "Romania News 24/7 creams new"
 theme = "Themefisher"
