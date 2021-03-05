@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://news24ro.vercel.app/"
+baseURL = "https://news24gr.vercel.app/"
 languageCode = "en"
-title = "Romania News 24/7 creams new"
+title = "Greece News 24/7 creams news"
 theme = "Themefisher"
 summaryLength = "20"
 paginate = 10
@@ -84,7 +84,7 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "Stiri Romania 24/7 cream"
+description = "News Greece 24/7 cream"
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -95,10 +95,10 @@ mapMarker = "images/marker.png"
 googleAnalitycsID = "" # Your ID
 # Contact Information
 mobile = "515.543.1212"
-email = "info@ouragan.vercel.app"
-location = "Columbia, MD 34650"
+email = "info@news24gr.vercel.app"
+location = "Greece, MD 34650"
 # copyright
-copyright = "| Copyright &copy; 2021 ronew.vercel.app All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 news24gr.vercel.app All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
